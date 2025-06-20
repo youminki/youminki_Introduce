@@ -26,17 +26,17 @@ export default {
     stack: ['Frontend', 'React', 'Typescript'],
     bio: {
       email: `dbalsrl7648@gmail.com`,
-      residence: 'Seoul, South Korea',
-      bachelorDegree: 'Kyunghee Univ. Computer Engineering (2018.03-2022.02)',
+      residence: 'Anyang, South Korea',
+      bachelorDegree: 'Myongji Univ. Computer Engineering (2019.03-2025.07)',
     },
     social: {
       github: `https://github.com/youminki`,
-      linkedIn: `https://www.linkedin.com/in/jeonming-lee/`,
-      resume: `https://www.figma.com/file/dㄴtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1`,
+      linkedIn: ``,
+      resume: ``,
     },
     dropdown: {
       tistory: 'https://dbalsrl7648.tistory.com/',
-      velog: 'https://velog.io/@danmin20',
+      velog: '',
     },
   },
 
