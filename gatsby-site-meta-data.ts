@@ -5,8 +5,8 @@ export default {
   title: `you-minki.com`,
   description: `개발자 유민기`,
   language: `ko`,
-  siteUrl: `https://jeong-min.com/`,
-  ogImage: `/og-image.png`, // Path to your in the 'static' folder
+  siteUrl: `https://youminki.netlify.app/`,
+  ogImage: `/static/og-image.png`, // Path to your in the 'static' folder
 
   /**
    * comments setting
@@ -30,12 +30,12 @@ export default {
       bachelorDegree: 'Kyunghee Univ. Computer Engineering (2018.03-2022.02)',
     },
     social: {
-      github: `https://github.com/danmin20`,
+      github: `https://github.com/youminki`,
       linkedIn: `https://www.linkedin.com/in/jeonming-lee/`,
       resume: `https://www.figma.com/file/dㄴtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1`,
     },
     dropdown: {
-      tistory: 'https://danminblog.tistory.com/',
+      tistory: 'https://dbalsrl7648.tistory.com/',
       velog: 'https://velog.io/@danmin20',
     },
   },
@@ -92,7 +92,7 @@ export default {
       title: 'Portfolio',
       description: '포트폴리오',
       techStack: ['React', 'Next.js', 'Typescript'],
-      thumbnailUrl: '', // Path to your in the 'assets' folder
+      thumbnailUrl: '/static/og-image.png', // Path to your in the 'assets' folder
       links: {
         post: '',
         github: '',
