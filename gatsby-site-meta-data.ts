@@ -31,8 +31,8 @@ export default {
     },
     social: {
       github: `https://github.com/youminki`,
-      linkedIn: ``,
-      resume: ``,
+      linkedIn: `https://www.instagram.com/you_minki`,
+      resume: `dbalsrl7648@gmail.com`,
     },
     dropdown: {
       tistory: 'https://dbalsrl7648.tistory.com/',
