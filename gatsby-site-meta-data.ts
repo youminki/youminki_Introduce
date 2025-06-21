@@ -60,15 +60,15 @@ export default {
   timestamps: [
     {
       category: 'Career',
-      date: '2022.01.04 - NOW',
-      en: 'A Corp.',
-      kr: 'A 회사',
-      info: 'A 팀',
-      link: '',
+      date: '2024.07.05 - now',
+      en: 'Me1pik.',
+      kr: 'LieftComma',
+      info: '`멜픽` 서비스에서 프론트엔드 개발 담당 (관리자, 사용자 페이지)',
+      link: 'https://me1pik.com/landing',
     },
     {
       category: 'Career',
-      date: '2021.01.04 - 2022.01.04',
+      date: '2024.07.05 - now',
       en: 'B Corp.',
       kr: 'B 회사',
       info: 'B 팀',
@@ -76,11 +76,11 @@ export default {
     },
     {
       category: 'Activity',
-      date: '2023.07 - NOW',
-      en: 'Community',
-      kr: '커뮤니티',
-      info: 'IT 커뮤니티',
-      link: '',
+      date: '2024. 03 ~ 2024. 12',
+      en: '멋쟁이사자 12기 프론트엔드 ',
+      kr: '동아리',
+      info: 'ADHD를 치료하고 감정을 기록하기 위한 웹사이트 제작',
+      link: 'https://github.com/mju-likelion/12th-hackathon-team2-web',
     },
   ],
 
