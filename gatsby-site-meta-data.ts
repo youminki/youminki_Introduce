@@ -69,6 +69,14 @@ export default {
 
     {
       category: 'Activity',
+      date: '2025. 03 ~ 2025. 07',
+      en: '이거냥저거냥',
+      kr: '졸업작품',
+      info: '토론을 즐겁게 게임처럼 하기 위한 반응형 웹사이트 제작',
+      link: 'https://github.com/MJU-CapsThon3/Frontend',
+    },
+    {
+      category: 'Activity',
       date: '2025. 01 ~ 2025. 03',
       en: 'MJSEC',
       kr: '동아리',
