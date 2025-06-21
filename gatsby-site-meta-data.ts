@@ -66,14 +66,16 @@ export default {
       info: '`멜픽` 서비스에서 프론트엔드 개발 담당 (관리자, 사용자 페이지)',
       link: 'https://me1pik.com/landing',
     },
+
     {
-      category: 'Career',
-      date: '2024.07.05 - now',
-      en: 'B Corp.',
-      kr: 'B 회사',
-      info: 'B 팀',
-      link: '',
+      category: 'Activity',
+      date: '2025. 01 ~ 2025. 03',
+      en: 'MJSEC',
+      kr: '동아리',
+      info: 'CTF 해킹 문제풀이 및 관리자를 위한 웹사이트 제작',
+      link: 'https://github.com/MJSEC-MJU/MSG_CTF_WEB',
     },
+
     {
       category: 'Activity',
       date: '2024. 03 ~ 2024. 12',
@@ -81,6 +83,14 @@ export default {
       kr: '동아리',
       info: 'ADHD를 치료하고 감정을 기록하기 위한 웹사이트 제작',
       link: 'https://github.com/mju-likelion/12th-hackathon-team2-web',
+    },
+    {
+      category: 'Activity',
+      date: '2024. 03 ~ 2024. 12',
+      en: 'Clover',
+      kr: '동아리',
+      info: '클로버의 전시회를 위한 초대장, 전시회 웹사이트를 제작',
+      link: 'https://github.com/2024Clover-website/Clover-Client',
     },
   ],
 
